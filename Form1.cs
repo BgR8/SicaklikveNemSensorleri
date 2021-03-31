@@ -57,7 +57,6 @@ namespace DHT22Sensor
             }
             catch (Exception error)
             {
-
                 MessageBox.Show(error.Message);
             }
         }
@@ -81,7 +80,6 @@ namespace DHT22Sensor
             }
             catch (Exception error)
             {
-
                 MessageBox.Show(error.Message);
             }
         }
@@ -94,7 +92,6 @@ namespace DHT22Sensor
             }
             catch (Exception error)
             {
-
                 MessageBox.Show(error.Message);
             }
         }
