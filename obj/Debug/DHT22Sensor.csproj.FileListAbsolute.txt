@@ -1,0 +1,10 @@
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\bin\Debug\DHT22Sensor.exe.config
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\bin\Debug\DHT22Sensor.exe
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\bin\Debug\DHT22Sensor.pdb
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.csprojAssemblyReference.cache
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.Form1.resources
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.Properties.Resources.resources
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.csproj.GenerateResource.cache
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.csproj.CoreCompileInputs.cache
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.exe
+C:\Users\yeni\Desktop\aForge\DHT22Sensor\obj\Debug\DHT22Sensor.pdb
