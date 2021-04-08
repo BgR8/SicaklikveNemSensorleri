@@ -53,7 +53,9 @@ namespace DHT22Sensor
                 chart1.Series["Sıcaklık"].Points.Clear();
                 chart1.Series["Nem"].Points.Clear();
 
-                MessageBox.Show("Arduino'ya bağlantı başarılı");
+                //MessageBox.Show("Arduino'ya bağlantı başarılı");
+                sinyal.Text = "Arduino'ya Bağlantı Başarılı";
+                sinyal.ForeColor = System.Drawing.Color.DarkGreen;
             }
             catch (Exception error)
             {
@@ -76,7 +78,9 @@ namespace DHT22Sensor
                 chart1.Series["Sıcaklık"].Points.Clear();
                 chart1.Series["Nem"].Points.Clear();
 
-                MessageBox.Show("Arduino'ya bağlantı kapatıldı.");
+                //MessageBox.Show("Arduino'ya bağlantı kapatıldı.");
+                sinyal.Text = "Arduino'dan Bağlantı Kapatıldı.";
+                sinyal.ForeColor = System.Drawing.Color.Red;
             }
             catch (Exception error)
             {
