@@ -210,7 +210,7 @@ namespace DHT22Sensor
             // 
             this.sinyal.AutoSize = true;
             this.sinyal.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.sinyal.Location = new System.Drawing.Point(92, 210);
+            this.sinyal.Location = new System.Drawing.Point(90, 203);
             this.sinyal.Name = "sinyal";
             this.sinyal.Size = new System.Drawing.Size(0, 32);
             this.sinyal.TabIndex = 6;
